@@ -1,1 +1,3 @@
-# One_step_a_time
+# One step a time: 
+
+The journey of a thousand miles begins with one step.
